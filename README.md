@@ -6,3 +6,5 @@ Adicionando branch develop
 Adicionando nova feature
 
 Adicionando novo release
+
+Adicionando novo hotfix
